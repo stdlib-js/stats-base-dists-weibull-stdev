@@ -32,10 +32,14 @@ The [standard deviation][standard-deviation] for a [Weibull][weibull-distributio
 
 <!-- <equation class="equation" label="eq:weibull_stdev" align="center" raw="\sigma = \lambda \sqrt{\Gamma\left(1+\frac{2}{k}\right) - \left(\Gamma\left(1+\frac{1}{k}\right)\right)^2}" alt="Standard deviation for a Weibull distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\sigma = \lambda \sqrt{\Gamma\left(1+\frac{2}{k}\right) - \left(\Gamma\left(1+\frac{1}{k}\right)\right)^2}" data-equation="eq:weibull_stdev">
+```math
+\sigma = \lambda \sqrt{\Gamma\left(1+\frac{2}{k}\right) - \left(\Gamma\left(1+\frac{1}{k}\right)\right)^2}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\sigma = \lambda \sqrt{\Gamma\left(1+\frac{2}{k}\right) - \left(\Gamma\left(1+\frac{1}{k}\right)\right)^2}" data-equation="eq:weibull_stdev">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@591cf9d5c3a0cd3c1ceec961e5c49d73a68374cb/lib/node_modules/@stdlib/stats/base/dists/weibull/stdev/docs/img/equation_weibull_stdev.svg" alt="Standard deviation for a Weibull distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -229,7 +233,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
