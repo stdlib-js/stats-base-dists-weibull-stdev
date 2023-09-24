@@ -69,7 +69,7 @@ where `λ > 0` is the [shape parameter][shape], `k > 0` is the [scale parameter]
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-stdev@v0.1.0-deno/mod.js';
 ```
 
 #### stdev( k, lambda )
@@ -140,7 +140,7 @@ v = stdev( 1.0, -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-stdev@v0.1.0-deno/mod.js';
 
 var lambda;
 var k;
