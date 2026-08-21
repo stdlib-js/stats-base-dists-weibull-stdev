@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-08-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b22739d`](https://github.com/stdlib-js/stdlib/commit/b22739dd49f02b1b641d65320cec1a8e49815e23) - **test:** migrate `stats/base/dists/weibull/stdev` to ULP-based assertions [(#14469)](https://github.com/stdlib-js/stdlib/pull/14469) _(by Athan Reines)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
